@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+ultralytics
+opencv-python
+chromadb
+sentence-transformers
+langchain
+langchain-community
+transformers
+torch
+pydantic
